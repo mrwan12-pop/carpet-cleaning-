@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.AssemblyInfo.cs
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\carpet cleaning\bin\Debug\net8.0\carpet cleaning.exe
+C:\Users\user\source\repos\carpet cleaning\bin\Debug\net8.0\carpet cleaning.deps.json
+C:\Users\user\source\repos\carpet cleaning\bin\Debug\net8.0\carpet cleaning.runtimeconfig.json
+C:\Users\user\source\repos\carpet cleaning\bin\Debug\net8.0\carpet cleaning.dll
+C:\Users\user\source\repos\carpet cleaning\bin\Debug\net8.0\carpet cleaning.pdb
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.dll
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\refint\carpet cleaning.dll
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.pdb
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.genruntimeconfig.cache
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\ref\carpet cleaning.dll
+C:\Users\user\source\repos\carpet cleaning\obj\Debug\net8.0\carpet cleaning.sourcelink.json
